@@ -1,0 +1,13 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+.home {
+	background-color: #159;
+	color: #fff;
+	font-size: 32px;
+	font-weight: bold;
+	text-align: center;
+	margin: 40px;
+	padding: 20px;
+}
